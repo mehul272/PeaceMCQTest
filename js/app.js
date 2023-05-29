@@ -318,7 +318,7 @@ const quizData = [
     b: "Indescribable",
     c: "Beyond speech and mind",
     d: "All of the Above",
-    correct: "D",
+    correct: "d",
   },
   {
     question: '"Jiva" is the…',
@@ -440,7 +440,7 @@ const quizData = [
   },
   {
     question: "Each Human being is co-existence of  ",
-    a: "Spirit and Sanyam    ",
+    a: "Spirit and Sanyam",
     b: "Health and prosperity ",
     c: "Self and Body",
     d: "Mind and Soul ",
@@ -448,7 +448,7 @@ const quizData = [
   },
   {
     question: "Which of the following does not assume things ",
-    a: "Spirit   ",
+    a: "Spirit",
     b: " Mind  ",
     c: " Self  ",
     d: "Body",
@@ -456,7 +456,7 @@ const quizData = [
   },
   {
     question: "What is the nature of self? ",
-    a: "Conscious      ",
+    a: "Conscious",
     b: " Physio-chemical",
     c: "Biochemical  ",
     d: " Semi-conscious",
@@ -464,7 +464,7 @@ const quizData = [
   },
   {
     question: "Which statement is incorrect ",
-    a: "What we analyze keeps changing.      ",
+    a: "What we analyze keeps changing.",
     b: "The activity of analyzing is continuous ",
     c: " Self is also called consciousness",
     d: "Needs of the body are permanent",
